@@ -7,8 +7,8 @@
     'description': """
         Allow to record payment reference/note per payment line inside pos payment screen
     """,
-    'author': "Smart Solutions",
-    'website': "smartsolutionsit99@gmail.com",
+    'author': "Agile Solutions",
+    'website': "www.agileitsolution.com",
     'category': 'point of sale',
     'version': '13.0',
 
@@ -23,7 +23,7 @@
     'auto_install': False,
     'installable': True,
     'application': True,
-    'price': 25,
+    'price': 35,
     'currency': 'USD',
-    'support': 'smartsolutionsit99@gmail.com',
+    'support': 'apps@agileitsolution.com',
 }
